@@ -1,0 +1,4 @@
+Trucks supported:
+- Volvo FH
+- Volvo FH Classic
+

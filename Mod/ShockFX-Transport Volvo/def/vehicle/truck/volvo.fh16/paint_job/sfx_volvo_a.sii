@@ -1,0 +1,9 @@
+SiiNunit
+{
+accessory_paint_job_data: sfx_volvo_a.volvo.fh16.paint_job
+{
+@include "sfx_volvo_settings.sui"
+	suitable_for[]: "l2h3.volvo.fh16.cabin"
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/ShockFx-Transport Volvo/Volvo FH Classic/Cabin A (Globetrotter XL).tobj"
+}
+}

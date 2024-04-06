@@ -3,14 +3,10 @@ Peintures Euro Truck Simulator 2 pour les Camions VOLVO [ShockFX-Transport]
 
 # Camions Supportés:
 ## VOLVO:
-### XXX:
-- XX
-- XX
-- XX
-### XXX:
-- XX
-- XX
-- XX
+- Sleeper
+- Globetrotter
+- Globetrotter XL
+- Globetrotter XL 8x4
 
 **Télécharger**: XXXX
 
